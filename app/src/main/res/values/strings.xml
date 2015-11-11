@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GreetFriend</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="greetMorning">Good Morning </string>
+    <string name="greetAfternoon">Good Afternoon </string>
+    <string name="greetEvening">Good Evening </string>
+    <string name="greetNight">Good Night </string>
+    <string name="title_activity_show_messege">ShowMessege</string>
+    
+    <string-array name="friends">
+        <item>John</item>
+        <item>Erika</item>
+        <item>Valentina</item>
+        <item>Fernando</item>
+    </string-array>
+</resources>
